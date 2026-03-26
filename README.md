@@ -1,5 +1,20 @@
-## Hi there 👋
+# Привет, меня зовут Ирина 🏄‍♀  
+Я QA Engineer (Junior)
 
+— Закончила Яндекс Практикум (QA Engineer)  
+— Интересуюсь тестированием веб-приложений и API  
+— Работаю с Postman, SQL, DevTools  
+
+🛠️ 
+- Postman
+- PostgreSQL
+- Chrome DevTools
+- Jira
+- Git
+
+## 📫 Контакты
+- LinkedIn: ссылка
+- Email: ...
 <!--
 **irinako3lova/irinako3lova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
