@@ -13,8 +13,8 @@
 - Git
 
 ## 📫 Контакты
-- LinkedIn: ссылка
-- Email: ...
+- LinkedIn https://www.linkedin.com/in/irinako3lova/
+- TG: @ii_kozlova
 <!--
 **irinako3lova/irinako3lova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
