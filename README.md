@@ -1,16 +1,16 @@
 # Привет, меня зовут Ирина 🏄‍♀  
 Я QA Engineer (Junior)
 
-— Закончила Яндекс Практикум (QA Engineer)  
+- Закончила Яндекс Практикум (QA Engineer)  
 📌 Дипломный проект: ...  
 
 
 ## 🛠️ Стек
-
-API: Postman  
-База данных: PostgreSQL  
-Фронт: Chrome DevTools  
-Тест-менеджмент: Jira, TestRail  
+- Postman
+- PostgreSQL
+- Chrome DevTools
+- Jira / TestRail
+- Git
 
 
 ## 📫 Контакты
