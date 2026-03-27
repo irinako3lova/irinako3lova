@@ -9,7 +9,7 @@
 - Postman
 - PostgreSQL
 - Chrome DevTools
-- Jira / TestRail
+- Jira
 - Git
 
 
