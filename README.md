@@ -4,11 +4,11 @@
 
 
 ## 🛠️ Стек
-Тестирование: Postman, Swagger, DevTools, Charles Proxy, ADB, Android Studio, Xcode.
+**Тестирование:** Postman, Swagger, DevTools, Charles Proxy, ADB, Android Studio, Xcode.
 
-БД и Инфраструктура: PostgreSQL, Bash/Zsh, Git, Docker (базово), GitLab CI (базово).
+**БД и Инфраструктура:** PostgreSQL, Bash/Zsh, Git, Docker (базово), GitLab CI (базово).
 
-Процессы и навыки: Jira, Kaiten, тест-дизайн (BVA, EP, Pairwise), чек-листы, тест-кейсы, баг-репорты.
+**Процессы и навыки:** Jira, Kaiten, тест-дизайн (BVA, EP, Pairwise), чек-листы, тест-кейсы, баг-репорты.
 
 ## 📂 Проекты
 
