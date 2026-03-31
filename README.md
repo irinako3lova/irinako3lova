@@ -16,10 +16,6 @@
 
 🔗 [Открыть репозиторий](https://github.com/irinako3lova/qa-web-api-testing-project/blob/main/README.md)
 
-📄 Артефакты:
-- 📋 [Тест-кейсы](https://docs.google.com/...)
-- ✅ [Чек-листы](https://docs.google.com/...)
-- 🐞 [Баг-репорты](https://docs.google.com/...)
 
 ### 🔹 Проекты (Яндекс Практикум)
 - Яндекс.Маршруты: [Тестирование валидации полей и логики расчета стоимости](https://docs.google.com/spreadsheets/d/1bDdfA-WwQydYTM_DxYkn8qUuSqg7szITn3DSe6VqrS4/edit?usp=sharing)  
