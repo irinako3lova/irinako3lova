@@ -1,16 +1,10 @@
 # Ирина | QA Engineer 🏄‍♀  
 
 - Закончила Яндекс Практикум (QA Engineer)  
-📌 Дипломный проект: ...  
 
 
 ## 🛠️ Стек
-- Postman
-- PostgreSQL
-- Chrome DevTools
-- Jira
-- Git
-- Confluence
+#Postman #PostgreSQL #Chrome DevTools #Jira #Git #Confluence
 
 ## 📂 Проекты
 
@@ -23,6 +17,10 @@
 - ✅ [Чек-листы](https://docs.google.com/...)
 - 🐞 [Баг-репорты](https://docs.google.com/...)
 
+### 🔹 Спринты (Яндекс Практикум)
+- Спринт 1: [краткое описание](https://docs.google.com/...)  
+- Спринт 2: [краткое описание](https://docs.google.com/...)  
+- Спринт 3: [краткое описание](https://docs.google.com/...)
 
 ## 📫 Контакты
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/irinako3lova)
