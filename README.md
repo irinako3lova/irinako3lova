@@ -12,6 +12,18 @@
 - Git
 - Confluence
 
+## 📂 Проекты
+
+### 🔹 Дипломный проект (Яндекс Практикум)
+
+🔗 [Открыть репозиторий](https://github.com/USERNAME/PROJECT)
+
+📄 Артефакты:
+- 📋 [Тест-кейсы](https://docs.google.com/...)
+- ✅ [Чек-листы](https://docs.google.com/...)
+- 🐞 [Баг-репорты](https://docs.google.com/...)
+
+
 ## 📫 Контакты
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/irinako3lova)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ii_kozlova)
