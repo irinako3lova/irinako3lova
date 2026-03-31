@@ -16,7 +16,7 @@
 
 ### 🔹 Дипломный проект (Яндекс Практикум)
 
-🔗 [Открыть репозиторий](https://github.com/USERNAME/PROJECT)
+🔗 [Открыть репозиторий](https://github.com/irinako3lova/qa-web-api-testing-project/blob/main/README.md)
 
 📄 Артефакты:
 - 📋 [Тест-кейсы](https://docs.google.com/...)
