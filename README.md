@@ -3,6 +3,10 @@
 Инженер по ручному тестированию с коммерческим опытом в крупном E-commerce (ритейл).  
 Уверенная техническая база: сложные SQL-запросы, тестирование API, работа со снифферами и логами. Понимаю клиент-серверную архитектуру и специфику мобильной разработки.
 
+## 📫 Контакты
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/irinako3lova)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ii_kozlova)
+[![Резюме](https://img.shields.io/badge/Resume-PDF-orange?style=for-the-badge&logo=adobeacrobat&logoColor=white)](https://hh.ru/resume/78982e7eff0c48c7ca0039ed1f50546468616f)
 
 ## 🛠️ Стек
 **Тестирование:** Postman, Swagger, DevTools, Charles Proxy, ADB, Android Studio, Xcode.
@@ -32,7 +36,7 @@
 ### 🐞 Кейс 1: Ошибка в логике статусов (критический дефект)
 
 **Ситуация:**  
-В системе использовался workflow из ~20 статусов. До 17 статуса карточка находилась у менеджера по закупкам, затем переходила контент-менеджеру для публикации.  
+В системе использовался workflow из ~20 статусов. До 15 статуса карточка находилась у менеджера по закупкам, затем переходила контент-менеджеру для публикации.  
 
 **Действие:**  
 Проверила сценарий возврата карточки на предыдущий статус после публикации.  
@@ -46,6 +50,9 @@
 **Результат:**  
 ✔ Выявлен критический дефект в бизнес-логике  
 ✔ Баг задокументирован и передан в разработку  
+
+
+![761197a4-40ce-4581-ac77-79ddf254a865](https://github.com/user-attachments/assets/1ab0c5a6-23a7-422f-b957-8cefd642b79b)
 
 ---
 
@@ -65,6 +72,24 @@
 ✔ Сокращено время работы контент-менеджеров  
 
 ---
+
+### 🐞 Кейс 3: Тестирование массового импорта/экспорта (Data Import/Export)
+
+**Ситуация:**  
+Проводилось тестирование функционала массового обновления карточек товаров через выгрузку/загрузку CSV-шаблонов (MassImport). Основная цель контент-менеджеров - менять общее описание товара в родительской карточке, чтобы изменения применялись ко всем вариантам (ТП).
+
+**Проблема:**  
+1. Логическая: При массовом экспорте выгружались только ТП (варианты), а родительские карточки игнорировались, что делало процесс неудобным для бизнеса.  
+2. Техническая (Баг): При активации чек-бокса «родительские карточки товаров» система выдавала пустой экран вместо фильтрации.  
+
+**Результат:**  
+✔️ Проведен анализ требований, предложено изменение логики выгрузки (добавить возможность экспорта только родителей)  
+✔️ Локализован и заведен UI/UX дефект модуля фильтрации MassImport  
+✔️ Успешно протестировано массовое обновление контента на витрине после исправления (интеграция PIM → Сайт)  
+
+![8c1a0d2f-9f2f-483f-aee4-d760a464692c](https://github.com/user-attachments/assets/d39f4f14-58c7-494c-bfbc-0f076bc537e9)
+
+---
 ## 📂 Проекты
 
 ### 🔹 Дипломный проект (Яндекс Практикум)
@@ -77,7 +102,3 @@
 - Яндекс.Метро: [Тестирование мобильного приложения](https://docs.google.com/spreadsheets/d/1ltK-LLvbR14apN7G9TvWBFDyEsGneA76a0ZL7JRuetI/edit?gid=857523888#gid=857523888)  
 - Яндекс.Прилавок: [Тестирование новой функциональности API приложения](https://docs.google.com/spreadsheets/d/1ltK-LLvbR14apN7G9TvWBFDyEsGneA76a0ZL7JRuetI/edit?gid=2006427015#gid=2006427015)
 
-## 📫 Контакты
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/irinako3lova)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ii_kozlova)
-[![Резюме](https://img.shields.io/badge/Resume-PDF-orange?style=for-the-badge&logo=adobeacrobat&logoColor=white)](https://hh.ru/resume/78982e7eff0c48c7ca0039ed1f50546468616f)
