@@ -13,7 +13,7 @@
 
 **БД и Инфраструктура:** PostgreSQL, Bash/Zsh, Git, Docker (базово), GitLab CI (базово).
 
-**Процессы и навыки:** Jira, Kaiten, Confluence, тест-дизайн (BVA, EP, Pairwise), чек-листы, тест-кейсы, баг-репорты.
+**Процессы и навыки:** Jira, Kaiten, тест-дизайн (BVA, EP, Pairwise), чек-листы, тест-кейсы, баг-репорты.
 
 ---
 
