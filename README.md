@@ -51,8 +51,7 @@
 ✔ Выявлен критический дефект в бизнес-логике  
 ✔ Баг задокументирован и передан в разработку  
 
-
-![761197a4-40ce-4581-ac77-79ddf254a865](https://github.com/user-attachments/assets/1ab0c5a6-23a7-422f-b957-8cefd642b79b)
+![cabinet](https://github.com/user-attachments/assets/c01a71ec-dfd2-48ee-a755-fea08e0d42ba)
 
 ---
 
@@ -87,7 +86,7 @@
 ✔️ Локализован и заведен UI/UX дефект модуля фильтрации MassImport  
 ✔️ Успешно протестировано массовое обновление контента на витрине после исправления (интеграция PIM → Сайт)  
 
-![8c1a0d2f-9f2f-483f-aee4-d760a464692c](https://github.com/user-attachments/assets/d39f4f14-58c7-494c-bfbc-0f076bc537e9)
+![bug](https://github.com/user-attachments/assets/e7de4722-f07c-4825-b7e5-1cc1b01c0346)
 
 ---
 ## 📂 Проекты
